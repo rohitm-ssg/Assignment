@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Testing.DeleteCorpData">
+      <class name="testing.DeleteCorpData">
         <methods>
-          <include name="setUp"/>
           <include name="exportTest"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- Testing.DeleteCorpData -->
+      </class> <!-- testing.DeleteCorpData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
