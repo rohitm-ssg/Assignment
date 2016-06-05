@@ -261,4 +261,7 @@ public class DeleteCorpData {
 				+ "tr")).size();
 		return size;
 	}
+	public void print_hello() {
+		System.out.println("doing git practice....");
+	}
 }
