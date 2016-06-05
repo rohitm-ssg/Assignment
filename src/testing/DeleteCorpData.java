@@ -20,7 +20,7 @@ import au.com.bytecode.opencsv.CSVReader;
 /*
  *  Delete corporate data
  */
-// Hi this is a test comment from Ranu likhar
+// Hi this is a test comment from rohitM
 
 
 
@@ -243,7 +243,7 @@ public class DeleteCorpData {
 				+ "23");
 		d1.findElement(By.xpath("//*[@id='login_form']/p[3]/input")).click();
 
-		
+		//comment in setup method
 
 	}
 	/*
