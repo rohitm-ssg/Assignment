@@ -11,6 +11,6 @@ public class EntryPoint1 {
 	     Class[] classes = new Class[]{DeleteCorpData.class};
 	     testng.setTestClasses(classes);
 	     testng.run();
-	     //return -1;
+	     //return -1;//
 }
 }
